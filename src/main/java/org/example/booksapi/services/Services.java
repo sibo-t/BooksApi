@@ -1,4 +1,4 @@
-package za.co.hotelrunner.services;
+package org.example.booksapi.services;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.Cookie;
