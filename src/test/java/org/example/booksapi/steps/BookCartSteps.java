@@ -60,11 +60,12 @@ public class BookCartSteps {
 
     }
 
-    @And("the author is {string}")
+    @Then("the author is {string}")
     public void theAuthorIs(String arg0) {
     }
 
-    @And("the category is {string}")
+    @Then("the category is {string}")
     public void theCategoryIs(String arg0) {
+
     }
 }
